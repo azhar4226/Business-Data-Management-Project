@@ -57,8 +57,7 @@ This project analyzes the business operations of Quadri Mobile Communication, a 
 data/                   # Raw and processed data files  
 notebooks/              # Jupyter notebooks for data analysis  
 visuals/                # Charts and graphs generated from the analysis  
-reports/                # Final report and presentation  
-src/                    # Python scripts for analysis  
+reports/                # Final report and presentation   
 README.md               # Project overview and details  
 ```
 
